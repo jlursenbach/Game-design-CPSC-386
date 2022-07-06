@@ -1,4 +1,4 @@
-# Data-Science-Class-Notebook-CPSC-375-
+# Game-design-CPSC-386
 
 ## About this repository:
 The purpose of this repository is to act as a resource and record of the materials
