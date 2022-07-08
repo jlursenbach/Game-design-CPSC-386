@@ -1,6 +1,7 @@
 # Game-design-CPSC-386
 # [CLICK HERE TO OPEN NOTEBOOK](https://github.com/jlursenbach/Game-design-CPSC-386-Notes/blob/main/Notebook/Game-design-CPSC-386-Notes.md)
-![Game Design Notes Header](https://user-images.githubusercontent.com/61986930/177936709-7dc45890-2ea6-46ee-b140-3a5e2de05c4b.png)
+[<img src="https://user-images.githubusercontent.com/61986930/177936709-7dc45890-2ea6-46ee-b140-3a5e2de05c4b.png" width="600">](https://github.com/jlursenbach/Game-design-CPSC-386-Notes/blob/main/Notebook/Game-design-CPSC-386-Notes.md)
+[![Game Design Notes Header](https://user-images.githubusercontent.com/61986930/177936709-7dc45890-2ea6-46ee-b140-3a5e2de05c4b.png)](https://github.com/jlursenbach/Game-design-CPSC-386-Notes/blob/main/Notebook/Game-design-CPSC-386-Notes.md)
 
 ## About this repository:
 The purpose of this repository is to act as a resource and record of the materials
