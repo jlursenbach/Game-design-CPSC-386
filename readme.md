@@ -1,7 +1,7 @@
 # Game-design-CPSC-386
 
-[CLICK HERE TO OPEN NOTEBOOK](/Game-design-CPSC-386-Notes/blob/main/Notebook/Game-design-CPSC-386-Notes.md)
-[CS 386 Syllabus Summer 2022.pdf](Game%20Design%20300331a507644c108e682af1c1c4d8fb/CS_386_Syllabus_Summer_2022.pdf)
+### [CLICK HERE TO OPEN NOTEBOOK](https://github.com/jlursenbach/Game-design-CPSC-386-Notes/blob/main/Notebook/Game-design-CPSC-386-Notes.md)
+
 
 ## About this repository:
 The purpose of this repository is to act as a resource and record of the materials
