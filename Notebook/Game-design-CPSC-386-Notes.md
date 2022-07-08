@@ -1,12 +1,13 @@
-# Game Design
+# Intro to Game Design
 
 [SYLLABUS PDF](Game%20Design%20300331a507644c108e682af1c1c4d8fb/CS_386_Syllabus_Summer_2022.pdf)
 
-Text Book: 
+### Text Book: 
 half-real: Video Games between Real Rules and Fictional Worlds ( Jesper Juul ), the MIT press
 
 [TEXTBOOK PDF](Game%20Design%20300331a507644c108e682af1c1c4d8fb/pdfcoffee.com_juul-jesper-half-real-pdf-free.pdf)
 
+# NOTE PAGES:
 
 ### [Introduction (Intro to Linux and Python)](Game%20Design%20300331a507644c108e682af1c1c4d8fb/Introduction%20(Intro%20to%20Linux%20and%20Python)%2092e706eb7b8946abbfce49c7655a4fcd.md) (7/5)
 
