@@ -14,5 +14,5 @@ half-real: Video Games between Real Rules and Fictional Worlds ( Jesper Juul ), 
 
 [What is a game?](Game%20Design%20300331a507644c108e682af1c1c4d8fb/What%20is%20a%20game%206d888752b86241c0825ba8ba6407d9cc.md) (7/6) I didn't really see much to put in the notes for this conversation. Empty file.
 
-
-bit.ly/3N0ozMr
+Syllabus link: <- soon to be depreciated
+bit.ly/3NOozMr
